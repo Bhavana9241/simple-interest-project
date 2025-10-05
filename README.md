@@ -7,4 +7,4 @@ This repository contains a simple project for practicing DevOps concepts such as
 - Open source license (Apache 2.0)
 - Contribution guidelines
 - Code of Conduct
-- “This is my assignment change”
+- “This is my assignment changes”
